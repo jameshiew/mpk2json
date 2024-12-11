@@ -1,6 +1,6 @@
 # mpk2json
 
-![Crates.io Version](https://img.shields.io/crates/v/mpk2json)
+[![Crates.io Version](https://img.shields.io/crates/v/mpk2json)](https://crates.io/crates/mpk2json)
 
 Small CLI tool to convert [MessagePack](https://msgpack.org/) files to JSON.
 
