@@ -4,6 +4,12 @@
 
 Small CLI tool to convert [MessagePack](https://msgpack.org/) files to JSON.
 
+## Installation
+
+```
+cargo install mpk2json
+```
+
 ## Usage
 
 Prints JSON directly to stdout for redirection or piping to another tool.
