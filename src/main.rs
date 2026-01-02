@@ -2,7 +2,7 @@ use anyhow::Result;
 use clap::Parser;
 use std::{
     fs::File,
-    io::{stdout, BufReader, BufWriter},
+    io::{BufReader, BufWriter, stdout},
     path::PathBuf,
 };
 
