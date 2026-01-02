@@ -2,12 +2,12 @@
 name = "mpk2json"
 version = "0.1.0"
 edition = "2021"
-license = "MIT"
+rust-version = "1.78.0"
 description = "Small CLI tool to convert MessagePack files to JSON"
+readme = "README.md"
 homepage = "https://github.com/jameshiew/mpk2json"
 repository = "https://github.com/jameshiew/mpk2json"
-readme = "README.md"
-rust-version = "1.78.0"
+license = "MIT"
 
 [dependencies]
 anyhow = "1.0.100"
