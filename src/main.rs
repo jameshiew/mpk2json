@@ -1,5 +1,5 @@
 use anyhow::Result;
-use clap::{command, Parser};
+use clap::Parser;
 use std::{
     fs::File,
     io::{stdout, BufReader, BufWriter},
